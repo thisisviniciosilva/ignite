@@ -1,0 +1,8 @@
+# Node modules
+node_modules
+
+# Lock files
+*.lock
+
+# Log files
+*.log
